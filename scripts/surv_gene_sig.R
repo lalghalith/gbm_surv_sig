@@ -1,4 +1,4 @@
-# Lia Harrington 2017 - Community Detection
+# Lia Harrington 2017 - GBM Gene Signatures
 # scripts/surv_gene_sig.R
 #
 # Usage:
