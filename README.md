@@ -4,7 +4,7 @@
 
 Completes gene signature analysis for TCGA Provisional data. 
 
-![Survival Curve](figures/gbm_survival.pdf)
+![Survival Curve](figures/gbm_survival.png)
 
 ## Reproducibility and Data
 
