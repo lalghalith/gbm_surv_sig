@@ -7,7 +7,7 @@ signature risk score identification analysis [1, 2]. Expression data were normed
 then averaged for individuals with multiple measurements. After verifying proportionality
 of hazards, a Cox proportional hazards model was fit to the 19 signature genes with
 overall survival status as the outcome. Risk scores for each participant was determined
-using the method by [2]. Risk scores were than categorized as Low or 
+using the method by Lu et al [2]. Risk scores were than categorized as Low or 
 High using  0 as the cutpoint . Differential survival 
 between the Low and High gene signature risk groups were visualized using 
 Kaplan-Meier curves and difference between the curves was assessed via the log-rank test. 
