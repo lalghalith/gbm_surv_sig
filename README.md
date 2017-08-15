@@ -4,7 +4,7 @@
 
 Completes gene signature analysis for TCGA Provisional data. 
 
-![Survival Curve](gbm_survival.pdf?raw=true)
+[Survival Curve](gbm_survival.pdf "Survival Curve")
 
 ## Reproducibility and Data
 
@@ -15,7 +15,7 @@ and reproduce all analyses:
 ```
 bash data/data_files.sh
 
-Rscript scripts/surv_gene_sig.R
+Rscript surv_gene_sig.R
 ```
 ## Contact 
 
