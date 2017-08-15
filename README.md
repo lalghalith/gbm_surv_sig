@@ -4,7 +4,13 @@
 
 Completes gene signature analysis for TCGA Provisional data. 
 
-To download the data and reproduce all analyses: 
+![Survival Curve](gbm_survival.pdf?raw=true)
+
+## Reproducibility and Data
+
+The data can be downloaded using this link: 
+http://www.cbioportal.org/study?id=gbm_tcga#summary. Alternatively, to download the data 
+and reproduce all analyses: 
 
 ```
 bash data/data_files.sh
