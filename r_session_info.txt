@@ -1,0 +1,21 @@
+R version 3.4.0 (2017-04-21)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: macOS Sierra 10.12.6
+
+Matrix products: default
+BLAS: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/3.4/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] gplots_3.0.1    survival_2.41-3
+
+loaded via a namespace (and not attached):
+ [1] compiler_3.4.0     Matrix_1.2-10      tools_3.4.0        KernSmooth_2.23-15
+ [5] splines_3.4.0      gdata_2.18.0       grid_3.4.0         caTools_1.17.1    
+ [9] bitops_1.0-6       gtools_3.5.0       lattice_0.20-35   
